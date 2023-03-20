@@ -92,9 +92,9 @@ You can deploy this project using:
 
 👤 **Walid Kabboussa**
 
-- GitHub: [@Hisoka37](https://github.com/Hisoka37)
-- Twitter: [@KBwalid9](https://twitter.com/KBwalid9)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/walidkb/)
+- GitHub: [@johnie261](https://github.com/johnie261)
+- Twitter: [@njorogejohni](https://twitter.com/njorogejohnie)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/john-njoroge-19b6a4245/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
