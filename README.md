@@ -90,7 +90,7 @@ You can deploy this project using:
 
 
 
-👤 **Walid Kabboussa**
+👤 **JOHNIE NJOROGE**
 
 - GitHub: [@johnie261](https://github.com/johnie261)
 - Twitter: [@njorogejohni](https://twitter.com/njorogejohnie)
@@ -106,7 +106,7 @@ You can deploy this project using:
 
 - [ ] **Fetch data from API.**
 - [ ] **Read a random math-related quote.**
-- [ ] **Make simple calculations.**
+- [ ] **Add more styling.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
