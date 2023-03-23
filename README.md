@@ -104,8 +104,8 @@ You can deploy this project using:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Fetch data from API.**
-- [ ] **Read a random math-related quote.**
+- [ ] **Add sub-pages.**
+- [ ] **Create a full website.**
 - [ ] **Add more styling.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
