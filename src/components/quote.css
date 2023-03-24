@@ -1,0 +1,21 @@
+.quote-container {
+  width: 450px;
+}
+
+.load {
+  color: green;
+}
+
+.error {
+  color: red;
+}
+
+.quote {
+  font-size: 1.1rem;
+  line-height: 1.2;
+  color: #333;
+}
+
+.author {
+  color: black;
+}
