@@ -1,17 +1,45 @@
 body {
+  background-color: #22251e;
+  color: #fff;
+}
+
+.section {
+  height: 80vh;
+  text-align: start;
+  padding: 5rem;
+}
+
+.welcome-title {
+  color: greenyellow;
+  font-style: italic;
+  font-size: 1.8rem;
+}
+
+.content {
+  line-height: 1;
+  font-size: 1.3rem;
+}
+
+.orderedList {
+  line-height: 1.1;
+  font-size: 1.1rem;
+}
+
+.Container {
+  height: 80vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 90vh;
 }
 
 .calc-container {
-  width: 450px;
-  height: 420px;
-  background-color: rgb(143, 142, 142);
+  width: 440px;
+  height: 480px;
+  background-color: #121212;
   color: #fff;
-  border: 2px solid orange;
-  border: 1px solid #f2f2f2;
+  border: 2px solid greenyellow;
+  padding: 1rem;
+  gap: 1rem;
 }
 
 .calc-output {
@@ -19,6 +47,8 @@ body {
   font-size: 1.2rem;
   padding: 1.5rem 0.6rem;
   border: 1px solid;
+  border-radius: 0.5rem;
+  margin-bottom: 0.15rem;
 }
 
 .first-row,
@@ -28,20 +58,53 @@ body {
 .fifth-row {
   display: inline-block;
   width: 100%;
+  padding: 0.15rem;
 }
 
 .btn,
 .zeroBtn {
-  width: 25%;
+  width: 24%;
+  margin: 0.1rem;
   padding: 1.55rem;
-  border: 1px solid #d3d3d3;
-  font-size: 1rem;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+  background-color: #22251e;
+  color: greenyellow;
 }
 
 .zeroBtn {
-  width: 50%;
+  width: 48.5%;
 }
 
-.color {
-  background-color: orange;
+.header {
+  border-bottom: 1px solid;
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(33, 242, 5, 0.891);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3.5rem;
+}
+
+.heading {
+  font-size: 2.5rem;
+  font-style: italic;
+  font-weight: 900;
+  color: greenyellow;
+}
+
+.Navbar {
+  display: flex;
+  gap: 2rem;
+  font-size: 1.5rem;
+}
+
+.Navbar .link {
+  text-decoration: none;
+  color: greenyellow;
+  font-style: italic;
+}
+
+.Navbar .link:hover {
+  letter-spacing: 0.2rem;
 }

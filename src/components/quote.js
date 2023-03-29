@@ -28,7 +28,10 @@ const Quote = () => {
 
   if (isLoading) {
     return (
-      <div>
+      <div style={{
+        textAlign: 'center', marginTop: '10rem',
+      }}
+      >
         {' '}
         <h1>Quote of the day</h1>
         <h2 className="load">Loading...</h2>
@@ -37,25 +40,29 @@ const Quote = () => {
   }
   if (hasError) {
     return (
-      <div>
+      <div style={{
+        textAlign: 'center', marginTop: '10rem',
+      }}
+      >
         <h1>Quote of the day</h1>
         <h2 className="error">An error occured while loading the page</h2>
       </div>
     );
   }
   return (
-    <div className="quote-container">
-      <h1>Quote of the day</h1>
-      <p className="quote">
-        &quot;
-        { data[0].quote }
-        &quot;
-      </p>
-      <p className="author">
-        -
-        {data[0].author}
-      </p>
-
+    <div className="quote">
+      <div className="quote-container">
+        <h1>Quote of the day</h1>
+        <p className="quote">
+          &quot;
+          { data[0].quote }
+          &quot;
+        </p>
+        <p className="author">
+          -
+          {data[0].author}
+        </p>
+      </div>
     </div>
   );
 };
