@@ -52,7 +52,7 @@ const Quote = () => {
   return (
     <div className="quote">
       <div className="quote-container">
-        <h1>Quote of the day</h1>
+        <h1 className="title-quote">Quote of the day</h1>
         <p className="quote">
           &quot;
           { data[0].quote }

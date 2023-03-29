@@ -9,6 +9,10 @@ body {
   color: aliceblue;
 }
 
+.title-quote {
+  font-style: italic;
+}
+
 .load {
   color: green;
 }
