@@ -1,5 +1,16 @@
+body {
+  height: 95vh;
+  color: aliceblue;
+}
+
 .quote-container {
-  width: 450px;
+  margin-top: 10rem;
+  text-align: center;
+  color: aliceblue;
+}
+
+.title-quote {
+  font-style: italic;
 }
 
 .load {
@@ -11,11 +22,12 @@
 }
 
 .quote {
+  width: 100%;
   font-size: 1.1rem;
   line-height: 1.2;
-  color: #333;
+  color: greenyellow;
 }
 
 .author {
-  color: black;
+  color: aliceblue;
 }
