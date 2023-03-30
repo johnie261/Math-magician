@@ -1,4 +1,4 @@
-import calculate from '../components/logic/calculate';
+import calculate from '../logic/calculate';
 
 describe('calculate', () => {
   it('should clear the calculator state when AC is pressed', () => {

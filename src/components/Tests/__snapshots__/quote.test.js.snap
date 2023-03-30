@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly  1`] = `
+<div
+  style={
+    Object {
+      "marginTop": "10rem",
+      "textAlign": "center",
+    }
+  }
+>
+   
+  <h1>
+    Quote of the day
+  </h1>
+  <h2
+    className="load"
+  >
+    Loading...
+  </h2>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "marginTop": "10rem",
+      "textAlign": "center",
+    }
+  }
+>
+   
+  <h1>
+    Quote of the day
+  </h1>
+  <h2
+    className="load"
+  >
+    Loading...
+  </h2>
+</div>
+`;
+
+exports[`renders when ther 1`] = `
+<div
+  style={
+    Object {
+      "marginTop": "10rem",
+      "textAlign": "center",
+    }
+  }
+>
+   
+  <h1>
+    Quote of the day
+  </h1>
+  <h2
+    className="load"
+  >
+    Loading...
+  </h2>
+</div>
+`;
+
+exports[`renders when there is quote 1`] = `
+<div
+  style={
+    Object {
+      "marginTop": "10rem",
+      "textAlign": "center",
+    }
+  }
+>
+   
+  <h1>
+    Quote of the day
+  </h1>
+  <h2
+    className="load"
+  >
+    Loading...
+  </h2>
+</div>
+`;
