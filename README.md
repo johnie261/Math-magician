@@ -52,7 +52,11 @@ HTML5 and css3 which are the latest versions and JavaScript were used in this pr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
 
+> Here you can see the live demo of my project:
+
+- [Live Demo Link](https://mathmagicianrct.netlify.app)
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
